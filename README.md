@@ -6,7 +6,7 @@ Packages :
 		BaseTest has implementations for TestNG annotations, driver initialisation etc.
 		BaseObject has common methods which can be used while writing functions in PageFactory class
 		
-	Object Package - This package will have all the PageFactory classes i.e it will have all the objects and methods for the objects. There should be different object class for each UI Screen
+	Object Package - This package will have all the PageFactory classes i.e it will have all the objects and methods for the 	         	objects. There should be different object class for each UI Screen
 		Every Class in Object Page needs to extend BaseObject
 		
 	Test Package - This package will have all the Test classes.
